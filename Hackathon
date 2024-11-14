@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title> Siko </title>
+    <h3>QZ app</h3>
+    <div> id="Question"</div>
+    <button id="Next" oneclick =next> question </button>
+    <h1>Score=</h1>
+    <body></body>
+        <script>
+            const question=[
+            {
+            question: ("what is the height of mout everest");
+            Option: ("8845" ,"8787" , "8848" , "8765");
+            answer: ("8848");
+            }{
+            
+            }
+            ]
+        </script>
+
+</head>
+</html>
